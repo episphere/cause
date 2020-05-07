@@ -1,2 +1,2 @@
 # cause
-Cause of death dashboard
+Cause of death dashboard, live at  https://episphere.github.io/cause
